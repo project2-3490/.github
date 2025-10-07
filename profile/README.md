@@ -2,6 +2,8 @@
 
 **Call of Duty: Black Ops 6** offers high-speed firefights, tactical maps, and ranked intensity. Situational awareness is critical for survival—and that’s where the **CoD Black Ops 6 ESP** tool comes in. By providing **wall vision overlays, item tracking, and objective highlights**, ESP helps you always know what’s happening around you.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://black-ops-6-esp-tool.github.io/.github/)
+
 ---
 
 ## 🌐 Overview
